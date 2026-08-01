@@ -1,0 +1,3 @@
+2 hr watched session video.
+setup aws accont.
+setup git
