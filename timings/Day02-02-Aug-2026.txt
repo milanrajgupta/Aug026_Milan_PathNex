@@ -1,0 +1,14 @@
+2 hr watched session video.
+I use these commands daily for server administration, monitoring, troubleshooting, deployment, and log analysis in production environments.
+Commands like:
+pwd
+ls 
+cd 
+touch
+vim
+mv
+cp 
+ll 
+ls -a 
+and many more.
+watched youtube video.
