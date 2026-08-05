@@ -1,0 +1,8 @@
+Joined morining session video.
+practice all commands 
+practice several process management commands 
+such as ps, top, kill, pkill, pgrep, jobs, bg, and fg. 
+I commonly use ps -ef to list processes, top to monitor CPU and memory usage, pgrep to find a PID, and kill or systemctl to stop or restart services during troubleshooting.
+watched bash script video on youtube and commented on.
+joined evening class.
+
