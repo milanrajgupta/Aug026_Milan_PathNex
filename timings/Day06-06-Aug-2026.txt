@@ -1,0 +1,51 @@
+Joined morining session video.
+practice all commands 
+Today i have learnt about Git and Github
+
+Here is a comprehensive reference guide to the most essential Git commands, organized by workflow stage for easy scanning.
+## Setup & Initialization
+
+* git init: Creates a brand new local repository in your current directory.
+* git clone <url>: Downloads an existing repository from a remote server (like GitHub) to your computer.
+* git config --global user.name "Your Name": Sets the name attached to your commit history.
+* git config --global user.email "your@email.com": Sets the email attached to your commit history. [1, 2, 3, 4, 5] 
+
+## Working with Changes
+
+* git status: Shows which files are modified, deleted, or currently untracked.
+* git diff: Displays the exact line-by-line differences in your unstaged files.
+* git add <file>: Moves a specific file to the staging area, preparing it to be saved.
+* git add .: Stages all changed, new, and deleted files at once.
+* git commit -m "your message": Saves your staged snapshot securely to the local project history.
+* git commit --amend: Modifies your most recent commit with any newly staged changes. [6, 7, 8, 9, 10] 
+
+## Branching & Merging
+
+* git branch: Lists all the branches in your local repository.
+* git branch <name>: Creates a new branch without switching to it.
+* git checkout <branch>: Switches your current working directory to a different branch.
+* git checkout -b <name>: Creates a brand new branch and switches to it immediately.
+* git switch <branch>: A modern, safer alternative to checkout for switching branches.
+* git merge <branch>: Combines the specified branch's history into your current active branch.
+* git branch -d <name>: Deletes a local branch that has already been safely merged. [11, 12, 13, 14, 15] 
+
+## Sharing & Collaboration
+
+* git remote add origin <url>: Links your local repository to a remote server path.
+* git fetch: Downloads the latest data from the remote server without altering your local files.
+* git pull: Fetches the remote changes and automatically merges them into your current branch.
+* git push origin <branch>: Uploads your local commits to the remote server repository. [16, 17, 18, 19, 20] 
+
+## Inspection & Undo
+
+* git log: Displays a chronological list of all saved commits in the current branch.
+* git log --oneline: Shows your project history in a compressed, one-line-per-commit view.
+* git reset <file>: Removes a file from the staging area while preserving its contents.
+* git reset --hard <commit>: Erases all local changes and rolls back history to a specific commit. (Warning: Permanent data loss).
+* git revert <commit>: Creates a brand new commit that completely undoes the effects of a previous commit.
+* git stash: Temporarily shelves your current uncommitted changes to give you a clean working directory.
+* git stash pop: Restores the changes you most recently shelved with git stash. [21, 22, 23, 24, 25] 
+
+watched bash script video on youtube and commented on.
+joined evening class.
+
