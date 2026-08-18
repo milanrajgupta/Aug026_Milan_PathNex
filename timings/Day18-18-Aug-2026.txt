@@ -1,0 +1,11 @@
+Joined morining session video.
+Code Practice:
+Ansible — Auto-healing Web Servers with Systemd
+Jenkinsfile - Rolling Deployments with Kubernetes
+GitLab CI/CD - Multi-Cloud Deployment
+Virtual Machine in Azure
+Docker - MySQL Container (Note - Here " \" means to be continue - it can be written in a single line")
+watched youtube and commented on.
+Push code on github.
+joined evening class.
+
