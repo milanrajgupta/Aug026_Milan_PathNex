@@ -1,0 +1,12 @@
+Joined morining session video.
+Today I learn about ARGO CD.
+Code Practice:
+Ansible — Auto-healing Web Servers with Systemd
+Jenkinsfile - Rolling Deployments with Kubernetes
+GitLab CI/CD - Multi-Cloud Deployment
+Kubernetes - self-Healing with Liveness and Readiness Probes
+Virtual Machine in Azure
+watched youtube and commented on.
+Push code on github.
+joined evening class.
+
