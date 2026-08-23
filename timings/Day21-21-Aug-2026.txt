@@ -1,0 +1,8 @@
+Joined morining session video.
+Today I learn about Terraform.
+Code Practice:
+Ec2, S3, workspace, Module, VPC, Subnet, Data BLock and more
+watched youtube and commented on.
+Push code on github.
+joined evening class.
+
